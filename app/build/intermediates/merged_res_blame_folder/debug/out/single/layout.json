@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-mergeDebugResources-47:\\layout\\chatright.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\chatright.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-mergeDebugResources-47:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-mergeDebugResources-47:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-mergeDebugResources-47:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-mergeDebugResources-47:\\layout\\chatleft.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\chatleft.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.chatbot.app-mergeDebugResources-47:/layout/activity_chat.xml",
+        "source": "com.example.chatbot.app-main-50:/layout/activity_chat.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="line">AI Chat is an AI chatbot that writes text. You can use it to write stories, messages, or programming code. You can use the AI chatbot as a virtual tutor in almost any subject.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="ssrg">TODO</string>
+    <string name="todof">TODO</string>
+</resources>

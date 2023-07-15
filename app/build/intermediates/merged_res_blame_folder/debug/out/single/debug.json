@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\drawable__61.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\drawable\\_61.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\layout_chatright.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\chatright.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.chatbot.app-merged_res-48:/drawable_resource_new.png.flat",
+        "source": "com.example.chatbot.app-main-50:/drawable/resource_new.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\drawable_user.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.chatbot.app-merged_res-48:/layout_activity_chat.xml.flat",
+        "source": "com.example.chatbot.app-main-50:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\drawable_botbg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\drawable\\botbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\drawable_chatbot.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\drawable\\chatbot.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\drawable_sendbg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\drawable\\sendbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\drawable____hfdjjk_ofszhks1mmtxoa.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\drawable\\___hfdjjk_ofszhks1mmtxoa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\navigation_nav.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\navigation\\nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\drawable_chaticon.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\drawable\\chaticon.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\layout_chatleft.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\chatleft.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\drawable_send_icon_png_38.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\drawable\\send_icon_png_38.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\drawable_bot.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\drawable\\bot.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.6\\com.example.chatbot.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    }
+]
